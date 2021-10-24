@@ -80,3 +80,10 @@ header {
   font-weight: 400;
   font-size: large;
 }
+
+.good {
+  cursor: pointer;
+  padding-top: 500px;
+  text-align: center;
+  font-weight: 900;
+}
